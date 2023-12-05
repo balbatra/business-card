@@ -1,8 +1,13 @@
-# React + Vite
+# Business card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+provide a simple business card based on react and Vite. The business card is a part of a scrimba tutorial.
 
-Currently, two official plugins are available:
+To build:
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run locally:
+npm run dev
+
+To deploy:
+npm run build
+In this case a dist dirctory is created which can be doployed.
